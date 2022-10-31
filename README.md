@@ -14,3 +14,11 @@
 * マスターコース進級希望者
 
 ## テスト101
+if x 1
+for x 2
+array x 3
+func x 2
+fizzbuzz x 1
+&& x 1
+
+
